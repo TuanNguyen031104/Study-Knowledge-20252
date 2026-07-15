@@ -1,0 +1,54 @@
+2024.2:
+* **Câu 1 (1đ).** Viết phương trình tiếp tuyến và pháp tuyến của đường $3x^3 + 2y^2 = 5$ tại $A(1; -1)$.
+* **Câu 2 (1đ).** Đổi thứ tự lấy tích phân: $\int_0^1 dx \int_{x-1}^{1-x^2} f(x,y) dy$.
+* **Câu 3 (1đ).** Tính tích phân bội ba $\iiint_V \sqrt{x^2 + y^2} dxdydz$, trong đó $V$ là miền giới hạn bởi các mặt $z = 2 - x^2 - y^2$ và mặt $z = 0$.
+* **Câu 4 (1đ).** Tính $\int_0^{+\infty} \frac{\sqrt[3]{e^x - 1}}{e^x} dx$.
+* **Câu 5 (1đ).** Tính $\int_C (x^2 + y^2 + 1)^3 ds$, $C$ là đường tròn có phương trình: $x^2 + y^2 = 1$.
+* **Câu 6 (1đ).** Tính tích phân $\iint_S \frac{1}{\sqrt{1+4x^2+16z^2}} dS$, ở đó $S$ là phần mặt paraboloid $y = x^2 + 2z^2$ nằm dưới mặt $y = 4$.
+* **Câu 7 (1đ).** Tính thông lượng của trường véctơ $\vec{F} = (x+y+z)^3(\vec{i} + \vec{j} + \vec{k})$ qua mặt cầu $x^2+y^2+z^2=1$, hướng ra ngoài.
+* **Câu 8 (1đ).** Xác định những điểm không phải là điểm xoáy trong trường véctơ $\vec{F}(x,y,z) = (x^2y + yz)\vec{i} + (y^2z + zx)\vec{j} + (z^2x + xy)\vec{k}$.
+
+2023.2:
+**Câu 1 (1đ).** Viết phương trình pháp tuyến và tiếp diện của mặt cong $x^2 - 2y - 3z^2 = -2$ tại $A(2; -3; -2)$.
+**Câu 2 (1đ).** Tính tích phân $\iint_D (2x^2 - 3y^2)dxdy$ với $D$ là miền phẳng giới hạn bởi các đường $x = 0, y = 0, x + y = 1$.
+**Câu 3 (1đ).** Tính thể tích vật thể $V$ xác định bởi: $1 \le x \le 2$; $z \le y^2 \le 2z$; $y \le z^2 \le 2y$.
+**Câu 4 (1đ).** Tính $\int_0^2 \frac{x^3 dx}{\sqrt[3]{8-x^3}}$.
+**Câu 5 (1đ).** Tính $\int_C (3x - 2y)ds$, $C$ là đường tròn có phương trình: $x^2 + y^2 = 8x - 6y$.
+**Câu 6 (1đ).** Tính diện tích của phần mặt paraboloid $z = 2 - x^2 - y^2$ nằm trong hình trụ $x^2 + y^2 \le 1$.
+
+2022.2:
+**Câu 1 (1đ).** Tính độ cong của đường cong $x = y^3$ tại điểm $(-1; -1)$.
+**Câu 2 (2đ).**
+a) Tính thể tích của miền cho bởi $\begin{cases} 0 \le z \le 1 - x^2 - y^2 \\ x \le y \le x\sqrt{3}. \end{cases}$
+b) Tính $\iiint_E (x^2 + y^2)dxdydz$, ở đó $E$ là phần khối cầu đặc $x^2 + y^2 + z^2 \le 4$ trong góc phần tám thứ nhất ($x, y, z \ge 0$).
+**Câu 3 (1đ).** Tính tích phân Euler $\int_{0}^{+\infty} \frac{x^5}{(1+x^4)^2} dx$.
+**Câu 4 (2đ).**
+a) Tính $\int_L z ds$, ở đó $L$ là đoạn thẳng đi từ $(-1; 5; 0)$ đến $(1; 6; 4)$.
+b) Tìm một hàm số $u$ sao cho $\overrightarrow{\text{grad } u} = (2xz + y^2, 2xy, x^2 + 3z^2)$ và tính $\int_C (2xz + y^2)dx + 2xydy + (x^2 + 3z^2)dz$, ở đó $C$ là đường cong cho bởi $x = t^2, y = 1+t, z = 2t-1, 0 \le t \le 1$.
+**Câu 5 (2đ).** Tính các tích phân mặt:
+a) $\iint_S xy dS$, ở đó $S$ là miền tam giác với các đỉnh $(3; 0; 0), (0; 2; 0)$ và $(0; 0; 1)$.
+b) $\iint_S xz dydz + xz dzdx + y dxdy$, ở đó $S$ là một nửa mặt cầu $x^2 + y^2 + z^2 = 25, y \ge 0$ và được định hướng theo hướng dương của trục $Oy$.
+
+2025.2 NN2:
+**Câu 1 (1đ).** Tính độ cong tại điểm $A(1, 0)$ của đường $y = x^5 - x$.
+**Câu 2 (1đ).** Tính tích phân đường $\int_C (x + 2y)ds$, với $C$ là đường tròn $x^2 + y^2 = 4x$.
+**Câu 3 (1đ).** Tính $\iint_D (3x^2 + 2y)dxdy$, với $D$ là miền giới hạn bởi các đường $x = y^2$ và $x = 1$.
+**Câu 4 (1đ).** Tính $\iiint_V y^2 dxdydz$, với $V$ là miền giới hạn bởi mặt $z = 4 - x^2 - y^2$ và $z = 3$.
+**Câu 5 (1đ).** Tính đạo hàm theo hướng $\vec{\ell} = (2, 2, -1)$ của hàm số $u(x, y, z) = \ln(x^2 + y^2 + 3z)$ tại điểm $P(1, 2, 1)$.
+**Câu 6 (1đ).** Tính tích phân suy rộng $\int_0^{+\infty} \frac{e^x - 1}{x e^{2x}} dx$.
+**Câu 7 (1đ).** Tính thể tích của miền giới hạn bởi các mặt cong $z = x^2 + y^2 + 1$ và $z = 4x - x^2 - y^2 + 7$.
+
+2025.2 NN1:
+**Câu 1 (2đ).**
+(a) Viết phương trình pháp diện tại điểm $B(1; 0; 1)$ của đường cong có phương trình $x = \cos(2t); y = \sin(3t); z = t + 1$ ($t \in \mathbb{R}$).
+(b) Cho hàm số $v(x, y, z) = xz^e - y(z + 1)e^y + 2\ln(z^2 + 6)$ với $(x; y; z) \in \mathbb{R}^3$. Tính đạo hàm theo hướng của $v$ theo hướng vuông góc với vectơ gradient của $v$ tại $M(-1; 0; 1)$.
+**Câu 2 (2đ).**
+(a) Tính tích phân $\iint_D (6 - 26x^4 \sin y)dxdy$, trong đó $D$ là miền hình thang có 4 đỉnh là $M(1; 1), N(1; -1), P(-2; 5)$ và $Q(-2; -5)$.
+(b) Tính tích phân $\iiint_V (y^3)dxdydz$, trong đó $V$ là miền xác định bởi $0 \le y \le x, 0 \le x \le z^2$ và $0 \le z \le 2$.
+**Câu 3 (2đ).**
+(a) Cho $C$ là đường cong $x = t; y = t^2/2; z = 1$ ($t \in \mathbb{R}$) đi từ điểm $(0; 0; 1)$ đến điểm $(1; \frac{1}{2}; 1)$. Tính tích phân $\int_C \sqrt{2y}ds$.
+(b) Tính tích phân $\int_0^{+\infty} \frac{x}{x^5 + 1}dx$.
+**Câu 4 (1đ).** Tính tích phân $\int_S \frac{1}{y}dS$ trong đó $S$ là phần mặt $y = \sqrt{x^2 + z^2}$ giới hạn bởi $y = 1$ và $y = 3$.
+**Câu 5 (1đ).** Tính tích phân
+$I = \int_C (3x^2y + 2\cos x)dx + (x^3 - 2026y)dy$
+trong đó $C$ là phần đường cong $x = y^4$ đi từ điểm $M(1; 1)$ đến điểm $N(0; 0)$.
